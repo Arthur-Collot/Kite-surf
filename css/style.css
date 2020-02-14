@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Bowlby+One+SC|Indie+Flower|Playfair+Display&display=swap");
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+@import url("components/container.css");
+@import url("components/portrait.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Raleway', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2 {
+	font-weight: lighter;
+}
+
+h1 {
+	font-family: 'Anton', sans-serif;
+}
+h2 {
+	font-family: 'Dosis', sans-serif;
+	font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
+
+#introduction {
+	font-size: 24px;
+}
+
+#stuff {
+	font-family: 'Indie Flower', cursive;}
+
+#learning {
+	font-family: 'Indie Flower', cursive;
+}
+
+#place {
+	font-family: 'Indie Flower', cursive;
+}
